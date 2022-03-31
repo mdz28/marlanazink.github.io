@@ -57,7 +57,7 @@ body {
 
 mark {
 	background-color: transparent;
-	color: inherit;
+	color: #2E4028;
 }
 
 input::-moz-focus-inner {
@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: solid 1px #e4e4e4;
-		color: inherit;
+		color: #2E4028;
 		text-decoration: none;
 	}
 
@@ -142,7 +142,7 @@ input, select, textarea {
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			border: 0;
-			color: inherit;
+			color: #2E4028;
 			text-decoration: none;
 		}
 
@@ -1827,7 +1827,7 @@ input, select, textarea {
 		border-radius: 5px;
 		border: none;
 		border: solid 2px #e4e4e4;
-		color: inherit;
+		color: #2E4028;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
